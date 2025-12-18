@@ -55,6 +55,10 @@ This project was developed as part of the **CS351 – Machine Learning / AI Seme
 
 ---
 
+python -m streamlit run app.py
+http://localhost:8501
+
+
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Install Dependencies
