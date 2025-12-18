@@ -1,0 +1,20 @@
+# Ignore ML / DL model files
+*.pkl
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Ignore model folders
+bert_model/
+roberta_model/
+ml_model/
+
+# Ignore cache
+__pycache__/
+
+*.csv
+Fake.csv
+True.csv
+final_dataset.csv
+
