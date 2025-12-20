@@ -64,3 +64,7 @@ http://localhost:8501
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+python -m streamlit run app.py
+http://localhost:8501
+
